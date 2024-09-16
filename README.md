@@ -15,7 +15,7 @@ To install EcoTune, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/EcoTune.git
+   git clone https://github.com/ahmadkhan100/EcoTune.git
    cd EcoTune
    ```
 
